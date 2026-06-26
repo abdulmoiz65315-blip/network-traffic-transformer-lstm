@@ -1,0 +1,15 @@
+Datasets used in this project (download from Kaggle):
+
+1. CIC-Darknet2020  (PRIMARY - traffic-category classification)
+   https://www.kaggle.com/datasets/dhoogla/cicdarknet2020
+   File used: cicdarknet2020.parquet
+   Target column: "Label"  (Non-Tor / NonVPN / Tor / VPN)
+
+2. Network Traffic Dataset  (SECONDARY - protocol-type classification)
+   https://www.kaggle.com/datasets/ravikumargattu/network-traffic-dataset
+   File used: Midterm_53_group.csv
+   Target column: "Protocol"  (TCP / TLSv1.3 / TLSv1.2 / DNS / ICMP / ARP / OCSP / NBNS)
+
+Note: the two datasets use different label schemes, so each is run through its own
+pipeline and compared at the headline-metric level rather than merged. The dataset
+files themselves are NOT stored in this repository (download them from the links above).

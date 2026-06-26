@@ -1,0 +1,3 @@
+Dataset,Accuracy,F1,Classes
+CIC-Darknet2020 (Traffic Type),0.9437,0.9446,4
+Midterm_53 (Protocol Type),0.9900,0.9922,8
