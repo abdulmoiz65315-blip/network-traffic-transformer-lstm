@@ -76,6 +76,6 @@ network-traffic-transformer-lstm/
 ```
 
 ## Team Members
-- [Member 1 — Name, Reg #]
-- [Member 2 — Name, Reg #]
-- [Member 3 — Name, Reg #]
+- [Member 1 — ABdul Moiz, CMS: 65315]
+- [Member 2 — Zanira Khan, CMS: 64771]
+- [Member 3 — Syeda Aqsa, CMS: 64947]
